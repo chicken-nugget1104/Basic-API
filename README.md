@@ -7,4 +7,4 @@ This API Lets you do alot more then MTM's API!! YEA like change that big screen 
 
 # What can it do?
 
-Spawn Cubes!!!! Change the big screen grades!!!!!!!!! Make new items!!!!!!! YEAAAAAAAAAAAAAAAAAAAAAAAAAA
+Spawn Cubes!!!! Change the big screen grades!!!!!!!!! Make new items!!!!!!! YEAAAAAAAAAAAAAAAAAAAAAAAAAAAA
